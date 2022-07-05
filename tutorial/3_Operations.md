@@ -28,3 +28,20 @@ Here is just a quick example on how to use these operations. Quick Tip: Once you
     MULTIPLY 13
     OUTPUT
 ```
+
+### Operations Between Storage Nodes
+
+You can use these basic operations between storage nodes. Here is an example on how you do this.
+
+```
+[0] 
+    EQUAL 10
+[1]
+    EQUAL 5
+    PLUS [0]
+    OUTPUT
+```
+And the output is:
+```
+15
+```
