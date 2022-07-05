@@ -51,3 +51,4 @@ and
 [0]
     COMPARE 10 105
 ```
+So basically in other words, the first argument of the operation has to be a storage node. The second argument can either be a storage node or a constant.
