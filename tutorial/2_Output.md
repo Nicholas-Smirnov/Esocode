@@ -1,3 +1,5 @@
+# Esocode Tutorial; Part 2
+
 ### The `OUTPUT` Operation
 
 The quick and basic OUTPUT operation is used when you want to retrieve the value of the current storage node.
