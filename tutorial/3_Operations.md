@@ -1,3 +1,5 @@
+# Esocode Tutorial; Part 3
+
 ### The `EQUAL` Operation
 
 The first basic operation is the `EQUAL` operation, which just sets the referenced storage node with the value given after. 
